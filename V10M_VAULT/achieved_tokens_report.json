@@ -1,0 +1,38 @@
+{
+    "monarch": "الملك محمد حسن",
+    "deputy": "السيدة علا مطاوع",
+    "contact_email": "himy26@gmail.com",
+    "total_tokens": 6,
+    "data": [
+        {
+            "target": "target_firmware.bin",
+            "vuln": "Insecure ADB Root Access",
+            "time": "2026-05-08 03:18:56"
+        },
+        {
+            "target": "target_firmware.bin",
+            "vuln": "Qualcomm Sahar Protocol Weakness",
+            "time": "2026-05-08 03:18:56"
+        },
+        {
+            "target": "target_firmware_1778211858.bin",
+            "vuln": "Insecure ADB Root Access",
+            "time": "2026-05-08 03:44:18"
+        },
+        {
+            "target": "target_firmware_1778211858.bin",
+            "vuln": "Qualcomm Sahar Protocol Weakness",
+            "time": "2026-05-08 03:44:18"
+        },
+        {
+            "target": "target_firmware_1778212230.bin",
+            "vuln": "Insecure ADB Root Access",
+            "time": "2026-05-08 03:50:30"
+        },
+        {
+            "target": "target_firmware_1778212230.bin",
+            "vuln": "Qualcomm Sahar Protocol Weakness",
+            "time": "2026-05-08 03:50:30"
+        }
+    ]
+}
